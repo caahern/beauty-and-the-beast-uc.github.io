@@ -104,7 +104,7 @@ p {
 .gold-text {
     -webkit-text-fill-color: transparent;
  background: -webkit-linear-gradient(transparent, transparent),
-  url(file:///Users/caitlin/Documents/2017/Cross%20Media%20Production/Github/beauty-and-the-beast-uc.github.io/Wood-close-up/text.jpg) repeat;
+  url(file:///Users/caitlin/Documents/2017/Cross%20Media%20Production/Github/beauty-and-the-beast-uc.github.io/Wood-close-up/2.jpg) repeat;
  background: -o-linear-gradient(transparent, transparent);
  -webkit-background-clip: text;
 }
