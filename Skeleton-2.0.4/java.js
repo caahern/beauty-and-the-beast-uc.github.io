@@ -49,3 +49,4 @@ $(".ytp-play-button").on('click', function() {
       "to": flip ? play : pause
    }).get(0).beginElement();
 });
+
