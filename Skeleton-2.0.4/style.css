@@ -22,8 +22,9 @@ a {
 }
 
 body {
+	background-color: #1d3c51;
 	background-image: url(../Abstract-background-design/OLIESS00.jpg);
-	
+	color: #1d3c51;
 	
 }
 
@@ -161,8 +162,6 @@ header {
 }
 
 .map {
-	position: fixed;
-	z-index: 2;
 	width: 50%;
 	margin-left: 25%;
 	
