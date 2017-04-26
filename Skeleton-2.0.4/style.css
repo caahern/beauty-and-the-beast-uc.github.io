@@ -162,8 +162,6 @@ header {
 }
 
 .map {
-	position: absolute;
-	z-index: 1;
 	width: 50%;
 	margin-left: 25%;
 	
