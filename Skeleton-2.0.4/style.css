@@ -44,6 +44,39 @@ footer {
 
 /* Typography */
 
+.beastspeech {
+	font-family: 'Yesteryear', cursive;
+	font-size: 1.5em;
+	margin-right: 150px;
+}
+
+#beastspeech {
+	font-family: 'Yesteryear', cursive;
+	font-size: 1.5em;
+}
+
+#beastspeechbottom {
+	margin-top: 150px;
+	
+}
+
+.beautyspeech {
+	font-family: "Great Vibes", cursive;
+	font-size: 1.5em;
+	text-align: right;
+}
+
+.right {
+	
+	float: right;
+	margin-left: 150px;
+
+}
+
+.left {
+	margin-top: 90px;
+	
+}
 
 h1 {
 	font-family: "Crimson Text", serif;
@@ -82,7 +115,7 @@ h4 {
 }
 
 #beauty {
-	font-family: "Great Vibes", script;
+	font-family: "Great Vibes", cursive;
 	
 }
 
