@@ -44,6 +44,15 @@ footer {
 
 /* Typography */
 
+.lady {
+	font-family: "penna-swashes";
+	text-align: center;
+	font-size: 1.8em;
+	padding-right: 85px;
+	padding-left: 85px;
+	letter-spacing: 1.5px;
+}
+
 .beastspeech {
 	font-family: 'Yesteryear', cursive;
 	font-size: 1.5em;
